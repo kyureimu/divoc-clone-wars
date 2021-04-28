@@ -1,0 +1,46 @@
+.navbar-main{
+    background-color:#FFEFFF;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.navbar-sub{
+    background-color:rgb(152,204,1);
+    // padding-left: 15px;
+    // margin-right: auto;
+    // margin-left: auto;
+    height: 32px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.navbar-container{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.navbar-spacer {
+    flex: 1 1 auto;
+  }
+
+  .page-banner{
+      height: 212px;
+      width: 100%;
+      background-image: url('../assets/COVID-19-rapid-test-\(Header\)_0.jpg'), linear-gradient(#eb01a5, #d13531); /* W3C */
+    //   background: url('../assets/COVID-19-rapid-test-\(Header\)_0.jpg') ;
+  }
+ 
+  .form-container{
+      width: 100%;
+      height: 212px;
+      background-color: blue;
+  }
+
+  .form-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+    }
+
+    
